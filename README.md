@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Milize
-- 👀 I’m interested in Cloud Engineering and Full Stack Developing
+- 👋 Hi, I’m Irfan Haziq
+- 👀 I’m experienced in Full Stack Developing, Mobile App Development and Website Design
 - 🌱 I’m currently learning at Universiti Malaysia Sarawak (UNIMAS)
 
 
